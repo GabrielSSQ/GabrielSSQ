@@ -26,11 +26,4 @@
     </tr>
   </table>
 </p>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=gabrielssq&show_icons=true&theme=ayu-mirage"
-  media="(prefers-color-scheme: ayu-mirage)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielssq&show_icons=true" />
-</picture>
+![GabrielSSQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielssq&theme=ayu-mirage&show_icons=true)
