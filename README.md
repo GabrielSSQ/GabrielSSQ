@@ -1,3 +1,24 @@
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/sergengokmen22) 
-
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://webdunyam.net/)
+<p align="center">
+  <table>
+    <tr>
+      <td width="600px">
+        <img src="https://placehold.it/600x300" alt="placeholder">
+      </td>
+      <td width="600px">
+        <table>
+          <tr>
+            <td>🌐 WebDünyam</td>
+            <td><a href="http://www.WebDunyam.NET">www.webdunyam.net</a></td>
+          </tr>
+          <tr>
+            <td>📷 Instagram</td>
+            <td><a href="http://www.instagram.com/yourusername">www.instagram.com/sergengokmen22</a></td>
+          </tr>
+        </table>
+      </td>
+      <td width="600px">
+        <img src="https://placehold.it/600x300" alt="placeholder">
+      </td>
+    </tr>
+  </table>
+</p>
