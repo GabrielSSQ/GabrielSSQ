@@ -21,7 +21,7 @@
         </table>
       </td>
       <td width="600px">
-        <img src="https://placehold.it/600x300" alt="placeholder">
+        <img src="https://modayolcusu.com/wp-content/uploads/2023/02/output-onlinepngtools.png" alt="placeholder">
       </td>
     </tr>
   </table>
