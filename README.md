@@ -30,7 +30,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielssq&theme=ayu-mirage&show_icons=true" alt="GabrielSSQ's Github Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+  <a href="https://github.com/gabrielssq/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielssq&layout=compact&theme=ayu-mirage" />
   </a>
 </div>
